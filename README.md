@@ -1,2 +1,0 @@
-# Woolhud Unofficial
-
